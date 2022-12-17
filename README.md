@@ -13,5 +13,7 @@ Please enter your numbers here: **2 5 6 2 6 2 3 18 4 2 5 6 2 2 quit**
 Type the number of occurrences you wish to remove (x): **3**
 
 Array after removing 3 occurrences: 3, 4, 5, 5, 6, 6, 6, 18
+
 Do you want to go again? Y or N: **N**
+
               Goodbye!
